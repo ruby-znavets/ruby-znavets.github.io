@@ -6,3 +6,5 @@ show_faq: true
 ---
 
 ## З чого почати?
+
+[Оператори в Ruby](operators)
