@@ -7,4 +7,8 @@ show_faq: true
 
 ## З чого почати?
 
-[Оператори в Ruby](operators)
+### [Оператори](operators)
+
+### [Коментарі](comments)
+
+### [Умовні вирази (`if...else`/`case...when`)](conditional_statements)
