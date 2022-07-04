@@ -7,6 +7,8 @@ show_faq: true
 
 ## З чого почати?
 
+### [Типи даних](data_types)
+
 ### [Оператори](operators)
 
 ### [Коментарі](comments)
