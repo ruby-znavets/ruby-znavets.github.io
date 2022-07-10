@@ -13,4 +13,6 @@ show_faq: true
 
 ### [Коментарі](comments)
 
+### [Регулярні вирази](regex)
+
 ### [Умовні вирази (`if...else`/`case...when`)](conditional_statements)
